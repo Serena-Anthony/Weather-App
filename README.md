@@ -11,5 +11,5 @@ Display Weather Information: Shows temperature, weather description, feels like 
 OpenWeatherMap API Documentation : https://openweathermap.org/current
 
 ## Screenshot
-![image](https://github.com/Serena-Anthony/Weather-App/assets/139638805/15c2e44a-987a-4e53-af8a-6dfe6f724c0d)
+![image](https://github.com/Serena-Anthony/Weather-App/assets/139638805/d23ed356-c778-472d-9590-afc76aed6679)
 
