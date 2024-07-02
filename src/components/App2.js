@@ -7,7 +7,7 @@ import "./App2.css";
 function App2() {
   const [data, setData] = useState({});
   const [location, setLocation] = useState("");
-  // const apikey = "9b3527ef530943cc762c599ce943e3e9";
+ 
 
   const searchLocation = (event) => {
     if (event.key === "Enter") {
