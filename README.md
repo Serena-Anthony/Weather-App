@@ -10,6 +10,6 @@ Display Weather Information: Shows temperature, weather description, feels like 
 ## API Reference
 OpenWeatherMap API Documentation : https://openweathermap.org/current
 
-## Screenshot
+## UI
 ![image](https://github.com/Serena-Anthony/Weather-App/assets/139638805/d23ed356-c778-472d-9590-afc76aed6679)
 
