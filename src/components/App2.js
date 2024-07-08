@@ -1,4 +1,4 @@
-import config from './config';
+import config from './config.js';
 
 import React, { useState } from "react";
 import axios from "axios";
